@@ -72,6 +72,8 @@ if st.button("Enter"):
         ]
         }
 
+        If you receive a job description that is not a financial services job, return "Not Financial Services".
+
         """
 
         prompt = f"""
